@@ -1,0 +1,11 @@
+Options +FollowSymlinks
+RewriteEngine on
+
+<FilesMatch "\.(ttf|otf|eot|woff)$">
+  <IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin "*"
+  </IfModule>
+</FilesMatch>
+
+RewriteRule ^(action.php|assets) - [L]
+RewriteRule ^ index.php [QSA,L]
