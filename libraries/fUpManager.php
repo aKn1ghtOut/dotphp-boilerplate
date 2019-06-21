@@ -32,7 +32,7 @@ class fUpManager
 
 	function __construct($array_params)
 	{
-        $this->defaultPath = $GLOBALS['DocRoot'] . "assets1/" ;
+        $this->defaultPath = DocRoot . "assets1/" ;
 
         $this->inpFile = $array_params['inpFile'];
         $this->customPath = $array_params['customPath'];

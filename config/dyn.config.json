@@ -1,0 +1,23 @@
+{
+  "meta" :  {
+      "siteMeta" : {
+        "title": "Litico",
+        "desc": "Explore books like never before",
+        "tags": "litico, explore, scifi"
+      },
+      "domain"  : "freelance",
+      "subFol"  : "FFREELANCER_0001/FILES/",
+      "https"   : false
+    },
+  "sys_config"  : {
+    "currTheme" : "ambiguity",
+    "user_plugin" : "litico_account"
+  },
+  "db_conf"     : {
+    "host"  :   "localhost",
+    "user"  :   "root",
+    "password"  : "",
+    "database_name" : "BLINKPEER",
+    "timezone"  : "Asia/Kolkata"
+  }
+}

@@ -1,0 +1,15 @@
+.litico_lib_slider_u1
+{
+    display: inline-block;
+}
+.litico_lib_slider_u1_rel
+{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.litico_lib_slider_u1_reel
+{
+    height: 100%;
+    position: relative;
+}
