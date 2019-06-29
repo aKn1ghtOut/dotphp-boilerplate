@@ -1,23 +1,23 @@
 {
   "meta" :  {
       "siteMeta" : {
-        "title": "Litico",
-        "desc": "Explore books like never before",
-        "tags": "litico, explore, scifi"
+        "title": "Clay CMS",
+        "desc": "CMS Boilerplate for PHP",
+        "tags": "cms, boilerplate"
       },
-      "domain"  : "freelance",
-      "subFol"  : "FFREELANCER_0001/FILES/",
+      "domain"  : "claycms",
+      "subFol"  : "",
       "https"   : false
     },
   "sys_config"  : {
     "currTheme" : "ambiguity",
-    "user_plugin" : "litico_account"
+    "user_plugin" : "clay_account"
   },
   "db_conf"     : {
     "host"  :   "localhost",
     "user"  :   "root",
     "password"  : "",
-    "database_name" : "BLINKPEER",
+    "database_name" : "claybase",
     "timezone"  : "Asia/Kolkata"
   }
 }

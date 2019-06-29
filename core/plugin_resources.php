@@ -1,6 +1,6 @@
 <?php
 
-namespace litico_plugins;
+namespace clay_plugins;
 
 function get_all_plugins()
 {

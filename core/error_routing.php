@@ -5,7 +5,7 @@
  * TODO: Manage HTTP errors better.
  * Also, implement all the remaining error codes according to the W3 guidelines.
  */
-namespace litico_errors;
+namespace clay_errors;
 
 function error_404()
 {

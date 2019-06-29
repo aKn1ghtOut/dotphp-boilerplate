@@ -55,8 +55,8 @@
                         </div>
                     </div>
                 </div>
-                <div id="bookster_logo" class="centerSize">
-                    <span class="logo_head"><img src="<? echo __assets ; ?>images/litico.png"></span><br>
+                <div id="clay_logo" class="centerSize">
+                    <span class="logo_head">Clay CMS</span><br>
                 </div>
             </div>
         </div>
